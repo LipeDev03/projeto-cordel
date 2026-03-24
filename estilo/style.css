@@ -82,13 +82,13 @@ section.imagem > p {
 }
 
 section#novo01 {
-    background-image: url(/projetonovo/cristiano.jpg);
+    background-image: url(../cristiano.jpg);
     background-position: top center;
     background-size: cover;
 }
 
 section#novo02 {
-    background-image: url(/projetonovo/cristiano\ ronadlo\ walpaper\ for\ pc.jpg);
+    background-image: url(../cristiano-wallpaper.jpg);
     background-position: top center;
     background-size: cover;
 }
